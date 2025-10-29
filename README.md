@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on a Chat-Gpt Clone 
+- 🌱 I’m currently learning How to create my Own chat bots to help me with my reverse engineering. 
+- 👯 I’m looking to collaborate on Creating a ida plugin that uses AI to help make psuedo C code more understanble for reverse engineers.
 
 <!--
 **ibreakstuffforfun1337/ibreakstuffforfun1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
